@@ -22,10 +22,10 @@ User instruction:
 6. Run the python code and check 
 
 * Note:
-i. .CSV file must contain a column named 'A' where data are stored in number format
-ii. .ino file is a demo  which just multiplies 2.5 to input number and sends it back
+1. .CSV file must contain a column named 'A' where data are stored in number format
+2. .ino file is a demo  which just multiplies 2.5 to input number and sends it back
      Change the calculation part in ardiuno code as per your requirement
-iii.  Ardiuno sends the data in string format. So to plot it data needs to be converted to number
+3.  Ardiuno sends the data in string format. So to plot it data needs to be converted to number
 
 
 
