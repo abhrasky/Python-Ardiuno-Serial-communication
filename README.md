@@ -13,13 +13,13 @@ back the processed data from ardiuno to PC again via same python code which can 
 data.
 
 User instruction:
-
-1. Place your .csv file and serialCom.py code in same folder
-2. Upload serial_read_write.ino code to your ardiuno board
-3. Check the port same in the ardiuno IDE
-4. Open serailCom.py file in any python IDE
-5. Change the present port name given in the code with your port name where ardiuno is connected
-6. Run the python code and check 
+1. Install python packages : pyserial,pandas and numpy using pip install
+2. Place your .csv file and serialCom.py code in same folder
+3. Upload serial_read_write.ino code to your ardiuno board
+4. Check the port same in the ardiuno IDE
+5. Open serailCom.py file in any python IDE
+6. Change the present port name given in the code with your port name where ardiuno is connected
+7. Run the python code and check 
 
 * Note:
 1. .CSV file must contain a column named 'A' where data are stored in number format
