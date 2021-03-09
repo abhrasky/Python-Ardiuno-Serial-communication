@@ -1,6 +1,6 @@
 # Python-Ardiuno-Serial-communication
 
-This small piece of code will come handy while try to send some data from computer to ardiuno via serial port,
+This small piece of code will come handy while trying to send some data from computer to ardiuno via serial port,
 process it there and get back it to PC again.
 
 This is perticularly useful to check realtime operation of ardiuno when no other sensor or device is available.
