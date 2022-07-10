@@ -4,7 +4,7 @@ import pandas as pd
 import numpy as np
 
 
-
+''' This is a basic serial com code. Port number needs to be changed accroding to avilable port'''
 
 
 
